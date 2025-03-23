@@ -1,0 +1,15 @@
+#msg-error,
+#msg-success {
+  display: none;
+}
+
+.alert {
+}
+
+.alert-error {
+  color: #fe0000;
+}
+
+.alert-success {
+  color: #008000;
+}
